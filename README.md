@@ -6,7 +6,7 @@ Run this command to install all the dependencies inside the project - npm instal
 To run the project use command - node index.js.
 
 ## NOTE : Keep both projects running simultaneously.
-Link for Backend Git Repo - [https://github.com/kartikeysharmaks/React-Dashboard-Charts-Tables-TailwindCSS](https://github.com/kartikeysharmaks/React-Dashboard-Charts-Tables-TailwindCSS)
+Link for Frontend Git Repo - [https://github.com/kartikeysharmaks/React-Dashboard-Charts-Tables-TailwindCSS](https://github.com/kartikeysharmaks/React-Dashboard-Charts-Tables-TailwindCSS)
 
 ### Kaggle Dataset
 Link for Dataset i used - [https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media](https://www.kaggle.com/datasets/imyjoshua/average-time-spent-by-a-user-on-social-media)
